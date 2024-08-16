@@ -1,0 +1,53 @@
+.bg-color {
+    background-image: linear-gradient(90deg, #a700de,#ff00bd);
+    height: 100vh;
+    width: 100%;
+    place-items: center;
+    padding: 35px;
+}
+
+.sub-container {
+    background-color: #fff;
+    border-radius: 40px;
+    display: grid;
+    place-items: center;
+    grid-template-columns: auto auto;
+    width: 60%;
+    height: 90vh;
+    margin: auto;
+    
+}
+
+.round {
+    background-color: rgb(208, 214, 219);
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: grid;
+    place-items: center;
+}
+
+input {
+    border: none;
+    background-color: #e0e0e0;
+    border-radius: 30px;
+    width: 200px;
+    height: 40px;
+}
+
+button {
+    border: none;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: lime;
+}
+
+h6 {
+    color: lime;
+}
+
+span {
+    color: #000;
+}

@@ -1,0 +1,39 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    color: #fff;
+}
+
+.inf {
+    background-color: #00f;
+    height: 40px;
+    width: 30%;
+    margin: 0px auto 20px auto;
+}
+
+.suc {
+    background-color: #00c853;
+    height: 40px;
+    width: 30%;
+    margin: 0px auto 20px auto;
+}
+
+.war {
+    background-color: #f5c60d;
+    height: 40px;
+    width: 30%;
+    margin: 0px auto 20px auto;}
+
+.err {
+    background-color: #ff0000;
+    height: 40px;
+    width: 30%;
+    margin: 0px auto 20px auto;}

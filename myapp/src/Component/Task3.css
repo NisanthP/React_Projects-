@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bg{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./Images/btn-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top:20%;
+}
+.buttons{
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 30px;
+}
