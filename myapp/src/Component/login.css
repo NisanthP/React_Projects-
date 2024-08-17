@@ -44,10 +44,11 @@ button {
     background-color: lime;
 }
 
-h6 {
+.login-h6 {
     color: lime;
 }
 
 span {
     color: #000;
 }
+
