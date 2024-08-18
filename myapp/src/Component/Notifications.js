@@ -1,9 +1,11 @@
 import React from 'react'
 import './notification.css'
+import Menu from './Menu'
 export function Notifications() {
   return (
     <>
-    <div className='main'>
+    <Menu/>
+    <div className='main container-fluid'>
         <span>
         <h1>Notifications</h1>
         <div className = 'inf'>

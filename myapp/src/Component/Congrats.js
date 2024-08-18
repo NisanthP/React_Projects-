@@ -2,9 +2,11 @@ import React from "react";
 import Img from './Images/profile.png'
 import Watch from './Images/watch.png'
 import './Task1.css'
+import Menu from "./Menu";
 const Congrats=() =>{
     return(
         <>
+        <Menu/>
         <div className="back">
         
         <h1 className="heading">Congratulations</h1>

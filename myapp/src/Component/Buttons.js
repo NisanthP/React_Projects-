@@ -1,10 +1,12 @@
 import React from "react";
 import './Task3.css';
+import Menu from "./Menu";
 
 const Buttons =() => {
     return(
         <>
-        <div className="bg">
+        <Menu/>
+        <div className="bg container-fluid">
             <br/>
             <h1 className="text">Social Buttons</h1>
             <div className="buttons">

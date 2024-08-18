@@ -23,4 +23,6 @@ h1 {
   .box {
     background-color: aqua;
     height:fit-content;
+    border-radius: 20px;
+    height: 50vh;
   }
